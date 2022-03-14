@@ -1,0 +1,25 @@
+{
+  "name": "unit-4-sprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amar0020/Unit-4-Sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amar0020/Unit-4-Sprint/issues"
+  },
+  "homepage": "https://github.com/amar0020/Unit-4-Sprint#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
